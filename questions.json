@@ -1,0 +1,121 @@
+[
+    {
+        "id": 0,
+        "type": "TIPO_DE_ABERTURA",
+        "text": "Qual o tipo de abertura ?",
+        "answers": [
+            "PIVOTANTE",
+            "CORRER"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 1,
+        "type": "MODELO",
+        "text": "Qual o modelo ?",
+        "answers": [
+            "PV1520-TA",
+            "SANTA MARINA",
+            "BLINDEX"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 2,
+        "type": "APLICACAO",
+        "text": "Qual a aplicação ?",
+        "answers": [
+            "PORTA",
+            "JANELA"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 3,
+        "type": "CONFIGURACAO",
+        "text": "Qual a configuração ?",
+        "answers": [
+            "SIMPLES",
+            "DUPLA"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 4,
+        "type": "INSTALACAO",
+        "text": "Qual o tipo de instalação ?",
+        "answers": [
+            "VIDRO-VIDRO",
+            "VIDRO-ALVENARIA"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 5,
+        "type": "MACANETA",
+        "text": "Qual o tipo de maçaneta ?",
+        "answers": [
+            "CLASSIC",
+            "VIC",
+            "BOPE",
+            "-"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 6,
+        "type": "CILINDRO",
+        "text": "Qual o tipo de cilindro ?",
+        "answers": [
+            "OVAL",
+            "REDONDO"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 7,
+        "type": "DIRECAO_DE_ABERTURA",
+        "text": "Qual a direção de abertura ?",
+        "answers": [
+            "ESQUERDA",
+            "DIREITA",
+            "DIREITA/ESQUERDA",
+            "-"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 8,
+        "type": "SENTIDO_DE_ABERTURA",
+        "text": "Qual o sentido de abertura ?",
+        "answers": [
+            "PUXANDO",
+            "EMPURRANDO",
+            "EMPURRANDO/PUXANDO",
+            "-"
+        ],
+        "correct": 5,
+        "selection": null
+    },
+    {
+        "id": 9,
+        "type": "ACABAMENTO",
+        "text": "Qual o acabamento ?",
+        "answers": [
+            "CR",
+            "BR",
+            "EP",
+            "BX"
+        ],
+        "correct": 5,
+        "selection": null
+    }
+]
