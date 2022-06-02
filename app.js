@@ -26,9 +26,11 @@ faders.forEach((fader) => {
 
 //HERO SECTION
 
+const sectionOneOptions = {
+    rootMargin: '-150px 0px 0px 0px',
+}
 const menuBar = document.querySelector('.hero__nav')
 const sectionOne = document.querySelector('.hero-container')
-const sectionOneOptions = {}
 
 const sectionOneObserver = new IntersectionObserver(function(
         entries,

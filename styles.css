@@ -45,7 +45,7 @@ header {
 /* HERO  */
 
 .hero-container {
-    height: 95vh;
+    height: 110vh;
     background-image: url(assets/hero-section/hero-background.jpg);
     background-position: center center;
     background-repeat: no-repeat;
