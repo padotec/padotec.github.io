@@ -47,13 +47,3 @@ const sectionOneObserver = new IntersectionObserver(function(
     sectionOneOptions)
 
 sectionOneObserver.observe(sectionOne)
-
-// HAMBURGUER MENU
-
-const hamburguer = document.querySelector('.hamburguer')
-const navMenu = document.querySelector('.nav-menu')
-
-hamburguer.addEventListener('click', function() {
-    hamburguer.classList.toggle('active');
-    navMenu.classList.toggle('active');
-})
