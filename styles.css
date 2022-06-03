@@ -45,7 +45,6 @@ header {
 /* HERO  */
 
 .hero-container {
-    height: 110vh;
     background-image: url(assets/hero-section/hero-background.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -113,10 +112,10 @@ header {
 }
 
 .second-section-container {
-    height: 50vh;
     display: flex;
     flex-direction: column;
-    gap: 13%;
+    gap: 70px;
+    padding-bottom: 70px;
 }
 
 hr {
@@ -374,6 +373,7 @@ hr {
 
 .image-hover-container {
     position: relative;
+    width: 550px;
 }
 
 .middle {
