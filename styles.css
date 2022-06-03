@@ -352,30 +352,23 @@ hr {
     gap: 150px;
 }
 
-.image-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    right: 0;
-}
-
 .image-hover-container {
     position: relative;
-    width: 550px;
+    width: 470px;
 }
 
 .middle {
     transition: 0.5s ease;
     opacity: 0;
     position: absolute;
-    top: 43%;
-    left: 34%;
+    top: 50%;
+    left: 62%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
 
 .our-projects-container__images {
-    height: 88%;
+    height: 95%;
     object-fit: cover;
     transition: 0.5s ease;
 }
@@ -730,7 +723,7 @@ hr {
         font-size: 14px;
     }
     .work-with-us-text-container {
-        padding-bottom: 50px;
+        padding-bottom: 60px;
     }
 }
 
